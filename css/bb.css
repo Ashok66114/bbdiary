@@ -19,6 +19,9 @@
     color: white;
     margin: 0px;
 }
+.social_link ul{
+    line-height: 1.47;
+}
 .log_shop{
     padding:3px
 }
